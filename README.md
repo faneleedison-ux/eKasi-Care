@@ -70,9 +70,9 @@ e-KasiCare generates structured health data that can be leveraged by governments
 
 ![](Banner.png)
 ![](Preview.png)
-![](dashboard.png)
-![](chat.png)
-![](profile.png)
+![](dashboard.jpg)
+![](chat.jpg)
+![](profile.jpg)
 
 ---
 
