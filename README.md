@@ -60,6 +60,10 @@ e-KasiCare generates structured health data that can be leveraged by governments
 - **NGO/Private Sector Collaboration**  
   Anonymized data enables partnerships and interventions tailored to local health needs and behaviors.
 
+<p align="center">
+  <img src="https://github.com/faneleedison-ux/eKasi-Care/raw/main/grants.jpeg" width="500" />
+</p>
+
 ---
 
 ## 📁 Screenshots
