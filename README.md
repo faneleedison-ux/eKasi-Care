@@ -1,79 +1,105 @@
-<p align="center"><img src="https://github.com/reachvivek/Doctor-Dashboard/blob/master/src/images/logos/logo.png?raw=true" width="200" height="200"></p>
-
-<h1 align="center">e-KasiCare </br>#JCI Durban Smart Cities (Hackathon) </H1>
 <p align="center">
-   <a target="_blank" href="https://www.hackerearth.com/challenges/hackathon/microsoft-azure-champions-league-hack-1/">
-        <img src="https://img.shields.io/badge/Challenge-HackerEarth-green.svg?style=for-the-badge&logo=hackerearth" />
-   </a>
+  <img src="https://github.com/faneleedison-ux/eKasi-Care/raw/main/logo.png" width="200" height="200" />
 </p>
 
-<h1 align="center">About</H1>
-
-e-KasiCare has been made to scale up the existing telemedicine and Patient MIS in rural areas using Azure Services and Serverless Architecture to provide a cost-economic one stop solution which is dependable and truly secure. The objective is to give the citizens a **Live Doctor Interface** which has a **serverless architecture** and can be remotely accessed irrespective of patient's geographical location. 
+<h1 align="center">e-KasiCare <br/>#JCI Durban Smart Cities (Hackathon)</h1>
 
 
-          <p align="center"> <strong>About Proprietary Code & Repository | GitHub</strong> </p> </a> 
-          
+---
+
+## 🩺 About
+
+**e-KasiCare** is a telemedicine and patient management solution designed for townships and rural communities. Built using **Azure services** and **serverless architecture**, it is a scalable, low-cost, secure healthcare platform that works across geographic locations.
+
+The platform provides patients with a **Live Doctor Interface**, allows secure communication, appointment scheduling, and personal medical data tracking—all through mobile and web interfaces.
+
+---
+
+## 🚀 Features
+
+1. **Smart Patient Interface**  
+   - Book appointments, consult doctors online, and view medical history from any device.
+   - Access health services across clinics and provinces with a unified medical ID.
+
+2. **Serverless Architecture**  
+   - Focus on privacy and minimal cost.
+   - Passwords and sensitive data are secured with no third-party leaks.
+   - Highly scalable, low-maintenance, and designed to serve large communities.
+
+3. **No Cost Barrier**  
+   - Free for students using Azure Student Accounts.
+   - Very affordable for general users with pay-as-you-go Azure access.
+
+4. **Mobile-first & Community-ready**  
+   - Built to be used in low-connectivity areas.
+   - Shared device support for multiple family members.
+   - Supports clinics, mobile health units, and community healthcare workers.
+
+---
+
+## 📊 Data Analytics & Government Value
+
+<p align="center">
+  <img src="https://github.com/faneleedison-ux/eKasi-Care/raw/main/Data.png" width="500" />
+</p>
+
+e-KasiCare generates structured health data that can be leveraged by governments and NGOs for:
+
+- **Outbreak Prevention & Response**  
+  Real-time tracking of symptoms and clinic visits can signal early outbreaks, enabling faster mobilization of healthcare resources.
+
+- **Predictive Payment Systems**  
+  For patients receiving grants for TB, HIV, or chronic conditions, governments can use the data to predict and validate payment schedules.
+
+- **National Health Record Integration**  
+  As patients move from one area to another, their medical records follow them—creating continuity of care across clinics and provinces.
+
+- **Resource Planning & Budgeting**  
+  Use trends in diagnoses and patient loads to forecast future needs in medication, staffing, and mobile clinics.
+
+- **NGO/Private Sector Collaboration**  
+  Anonymized data enables partnerships and interventions tailored to local health needs and behaviors.
+
+---
+
+## 📁 Screenshots
+
 ![](Banner.png)
 ![](Preview.png)
 ![](dashboard.png)
 ![](chat.png)
 ![](profile.png)
 
-## Features 💬
-1. Once user installs e-KasiCare on his phone, he can schedule a test, communicate with a doctor, request appointment and view all his previous data in a cost effective way.
+---
 
-2. e-KasiCare has a serverless architecture:
+## 🛠️ Built With
 
-     * Our prime focus is on user's **cost** and **privacy**. The passwords are securely stored without the intervention of any third-party applications and this **prevents dataleaks** from occuring.
-     * It is highly **reliable**.
-     * Requires **very low maintenance**.
-     * It is **highly scalable** - if many people want to use the same account to store different family user's data.
+- React.js / HTML / CSS / JavaScript
+- Azure Functions & Blob Storage
+- Firebase Auth (for secure login)
+- Serverless Architecture
+- Mobile-first UX for rural deployment
 
-3. Doesn't require any subscription:
-
-    * It is available **free** of cost for students/people having Azure Student account.
-    * For rest of the users, there is **minimal payment** for Azure account which is equivalent to a meal from one of your favourite burger joints.
-
-## Getting Started
-
-### There are two facets of this solution
-* Doctor Side - Dashboard (React)
-* Patient Side - Mobile App (Flutter)
-
-#### Azure Services Used 🔍
-* DevOps
-* Active Directory (A2D)
-* Blob Storage
-* Cosmos DB
-* API Management
-* Functions
-* Monitor
-
-## High Level Design 📜  
-![](TechStack.png)
-
-## Steps 
-## 1. Deploying Doctor's Dashboard - (React App)
-Clone this Dashboard to your workspace. 
-
-`$ git clone https://github.com/reachvivek/Doctor-Dashboard`
-
-## Running Locally and Testing
-To build and run from a packaged jar locally:
-```
-`npm install`
-`npm start`
-```
-
-If you navigate to `http://localhost:3000/` you will be navigated to `/dashboard` Kudos! 👍
+---
 
 
-## Deploying with Vercel
-To deploy this with Vercel
-```
-Fork this repo and import it to Vercel and there you go!!
-```
+---
+
+## 🙌 Acknowledgements
+
+Special thanks to:
+
+- **JCI Durban Smart Cities Hackathon**  
+- Community healthcare workers for inspiration and feedback  
+- Patients and families in underserved areas
+
+---
+
+## 📫 Contact
+
+Built by [@faneleedison-ux](https://github.com/faneleedison-ux)  
+For partnerships, deployments, or demos: **fanelesibongembuyazi0@gmail.com**
+
 	
 ## Team Name: e-KasiCare
 ![](Team.png)
