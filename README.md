@@ -40,7 +40,7 @@ The platform provides patients with a **Live Doctor Interface**, allows secure c
 ## 📊 Data Analytics & Government Value
 
 <p align="center">
-  <img src="https://github.com/faneleedison-ux/eKasi-Care/raw/main/Data.png" width="500" />
+  <img src="https://github.com/faneleedison-ux/eKasi-Care/raw/main/Data.jpg" width="500" />
 </p>
 
 e-KasiCare generates structured health data that can be leveraged by governments and NGOs for:
