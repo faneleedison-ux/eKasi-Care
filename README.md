@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/faneleedison-ux/eKasi-Care/raw/main/logo.png" width="200" height="200" />
+  <img src="https://github.com/faneleedison-ux/eKasi-Care/raw/main/logo.png" />
 </p>
 
 <h1 align="center">e-KasiCare <br/>#JCI Durban Smart Cities (Hackathon)</h1>
@@ -80,6 +80,10 @@ e-KasiCare generates structured health data that can be leveraged by governments
 - Serverless Architecture
 - Mobile-first UX for rural deployment
 
+
+<p align="center">
+  <img src="https://github.com/faneleedison-ux/eKasi-Care/raw/main/TechStack.png" width="500" />
+</p>
 ---
 
 
