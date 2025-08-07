@@ -2,7 +2,7 @@
   <img src="https://github.com/faneleedison-ux/eKasi-Care/raw/main/logo.png" />
 </p>
 
-<h1 align="center">e-KasiCare <br/>#JCI Durban Smart Cities (Hackathon)</h1>
+<h1 align="center">e-KasiCare <br/></h1>
 
 
 ---
