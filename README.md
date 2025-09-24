@@ -8,6 +8,12 @@ By integrating **real-time health metrics** — including **heart rate, body tem
 
 ---
 
+## 🎥 Demo Video  
+
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-blue)](video_recording.mp4)  
+
+---
+
 ## 📺 UI Screenshots  
 
 ### Login Screen  
