@@ -60,7 +60,7 @@ With the support of **Minister Solly Malatsi, Minister of Communications and Dig
 ---
 
 ## 🛠️ Tech Stack  
- ![Login UI](TechStack.png)
+ ![Tech Stack](TechStack.png)
 ---
 
 ## 📢 Media & Resources  
