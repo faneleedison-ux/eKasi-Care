@@ -60,13 +60,8 @@ With the support of **Minister Solly Malatsi, Minister of Communications and Dig
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend**: React.js  
-- **Backend**: Spring Boot / Node.js  
-- **AI/ML**: TensorFlow / PyTorch models for health analysis  
-- **Cloud & Infrastructure**: Huawei Cloud, Docker, Kubernetes  
-- **Connectivity**: 5G for seamless real-time communication  
-- **IoT Devices**: Sensors for vital signs monitoring  
-
+ 
+(public/TechStack.png)
 ---
 
 ## 📢 Media & Resources  
