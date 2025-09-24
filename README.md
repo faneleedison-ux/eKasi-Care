@@ -10,7 +10,7 @@ By integrating **real-time health metrics** — including **heart rate, body tem
 
 ## 🎥 Demo Video  
 
-[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-blue)](video_recording.mp4)  
+[![Watch E-Kasi Care Demo](public/dr_patient.png)](publiic/video_recording.mp4) 
 
 ---
 
